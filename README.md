@@ -1,5 +1,18 @@
 # project-1
-Project 1 repo
+Project 1 repo includes the following:
+
+A Resources folder that contains the base data set as a CSV file and 10 images from the cleaned Data
+
+.gitignore file
+
+This ReadME file
+
+A word doc called Group 4 Analysis.docx with the breakdown of our findings
+
+A PowerPoint Doc called Group 4 Project-1.pptx with our powerpoint slides for presentation
+
+A main.ipynb file that contains all of the code used to clean the Data and create analysis.
+
 
 
 
